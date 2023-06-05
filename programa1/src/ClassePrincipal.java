@@ -5,6 +5,7 @@ public class ClassePrincipal {
 		// TODO Auto-generated method stub
 		
 			System.out.println("olá, mundo!");
+			System.out.println("estou começando a aprender");
 	}
 	
 
